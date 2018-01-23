@@ -18,11 +18,10 @@ Bilgisayarınızın performansını en üst düzeye çıkarıyoruz. Gereksiz per
 
 ![Image](https://i.hizliresim.com/MdyEA9.png)
 ### Ekran Görüntüleri Başlangıçta
-![Image](https://github.com/pr0gramc2/Bilgisayar-ve-Oyun-Optimize-Programi/blob/master/eskisurum.png)
 ![Image](https://i.hizliresim.com/2E10Wq.png)
 
 ### Son Güncelleme ile 
-![Image](https://raw.githubusercontent.com/pr0gramc2/Bilgisayar-ve-Oyun-Optimize-Programi/master/Screenshot_1.png)
+![Image](https://github.com/uzayadami/pcoptimizev2/blob/master/Screenshot_1.png)
 
 ### Program Dünden Bügüne Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XFSNZOFlS1w
